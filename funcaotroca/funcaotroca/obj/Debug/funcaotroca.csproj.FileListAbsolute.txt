@@ -1,0 +1,7 @@
+C:\Users\Ramon Cirino\source\repos\funcaotroca\funcaotroca\bin\Debug\funcaotroca.exe.config
+C:\Users\Ramon Cirino\source\repos\funcaotroca\funcaotroca\bin\Debug\funcaotroca.exe
+C:\Users\Ramon Cirino\source\repos\funcaotroca\funcaotroca\bin\Debug\funcaotroca.pdb
+C:\Users\Ramon Cirino\source\repos\funcaotroca\funcaotroca\obj\Debug\funcaotroca.csprojAssemblyReference.cache
+C:\Users\Ramon Cirino\source\repos\funcaotroca\funcaotroca\obj\Debug\funcaotroca.csproj.CoreCompileInputs.cache
+C:\Users\Ramon Cirino\source\repos\funcaotroca\funcaotroca\obj\Debug\funcaotroca.exe
+C:\Users\Ramon Cirino\source\repos\funcaotroca\funcaotroca\obj\Debug\funcaotroca.pdb
